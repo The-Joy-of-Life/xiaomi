@@ -134,6 +134,7 @@
             .recommend{
                 margin-top: 9px;
                 margin-bottom: 20px;
+                display:flex;
             }
             .recommend>a{
                 width: 27%;
